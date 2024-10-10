@@ -1,1 +1,1 @@
-# AI-Solutions
+# AI-Solutions : document intelligence
